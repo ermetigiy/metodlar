@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodlarr", "Metodlarr\Metodlarr.csproj", "{AAB2F388-9D56-4F29-B167-BDA649D18696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB2F388-9D56-4F29-B167-BDA649D18696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB2F388-9D56-4F29-B167-BDA649D18696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB2F388-9D56-4F29-B167-BDA649D18696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB2F388-9D56-4F29-B167-BDA649D18696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7867A390-405B-4064-BCB0-328D6629079F}
+	EndGlobalSection
+EndGlobal
