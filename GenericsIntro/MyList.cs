@@ -25,5 +25,10 @@ namespace GenericsIntro
 
 
         }
+
+        public int Length
+        {
+            get { return items.Length; }
+        }
     }
 }
