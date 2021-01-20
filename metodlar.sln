@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodlarr", "Metodlarr\Metodlarr.csproj", "{AAB2F388-9D56-4F29-B167-BDA649D18696}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metodlarr", "Metodlarr\Metodlarr.csproj", "{AAB2F388-9D56-4F29-B167-BDA649D18696}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop1", "Oop1\Oop1.csproj", "{11846838-F1F7-4C69-9998-108F1C5439CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{BA3D85EC-AC3A-4944-9149-AAF39E5596F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{BAF1C0BE-255E-47A5-9E4C-9EDC2BF19106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E0AC650-F924-488D-9B42-9C3BDEED8DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11846838-F1F7-4C69-9998-108F1C5439CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11846838-F1F7-4C69-9998-108F1C5439CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11846838-F1F7-4C69-9998-108F1C5439CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11846838-F1F7-4C69-9998-108F1C5439CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3D85EC-AC3A-4944-9149-AAF39E5596F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3D85EC-AC3A-4944-9149-AAF39E5596F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3D85EC-AC3A-4944-9149-AAF39E5596F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3D85EC-AC3A-4944-9149-AAF39E5596F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF1C0BE-255E-47A5-9E4C-9EDC2BF19106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF1C0BE-255E-47A5-9E4C-9EDC2BF19106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF1C0BE-255E-47A5-9E4C-9EDC2BF19106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF1C0BE-255E-47A5-9E4C-9EDC2BF19106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
